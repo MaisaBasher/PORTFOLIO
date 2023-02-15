@@ -1,15 +1,19 @@
 import './Common.css';
+import './MenuBar.css'
 
-import dp from '../img/me2.jpg';
+
 
 function MenuBar() {
     return (
         <div className="App">
-      <header className="App-header">
-        <h1>Maisa Basher</h1>
-        <img className="DP" src={dp}  alt="DP" />
-      </header>
-     
+          <nav className = "menubar">
+            <ul>
+                <a href = " <Intro/>">Intro</a>
+                <a href = "<Projects/>">Projects</a>
+                <a href = "<WorkHistory/>">WorkHistory</a>
+
+            </ul>
+          </nav>
     </div>
     );
 }

@@ -1,0 +1,23 @@
+.menubar {
+    display: block;
+    background-image: linear-gradient(180deg, rgb(215, 26, 171), rgb(210, 163, 219));
+    padding: 10px;
+    color: white;
+    align-items: center;
+}
+
+   
+a {
+    display: inline;
+    padding: 10px;
+    color: inherit;
+    text-decoration: none;
+    
+}
+a:hover {
+    background-color: plum;
+}
+a:active {
+    background-color: rgb(117, 48, 117);
+    color: rgb(58, 10, 68);
+}
