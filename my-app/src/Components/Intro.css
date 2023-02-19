@@ -1,8 +1,9 @@
 
 .all {
+    margin: 0;
     display: inline-block;
     background-image: linear-gradient(180deg, rgb(233, 174, 219), rgb(212, 184, 217));
-
+    
 }
 .image-holder {
     float: left;
@@ -16,7 +17,6 @@
     display: block;
     justify-content: center;
     text-align: center;
-
    
 }
 
@@ -36,5 +36,6 @@
     font-size: 20px;
     color: rgb(81, 7, 76);
     padding-top: 100px;
+    margin: 0;
    
 }

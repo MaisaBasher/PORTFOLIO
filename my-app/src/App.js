@@ -3,13 +3,19 @@ import './App.css';
 
 import MenuBar from './Components/MenuBar';
 import Intro from './Components/Intro';
+import Projects from './Components/Projects';
+import WorkHistory from './Components/WorkHistory';
 
 
 function App() {
   return (
-    <div>
+    <div className = "parent">
     <MenuBar/>
-    <Intro/>
+    <div className = "sec">
+      <Intro/>
+      <Projects/>
+      <WorkHistory/>
+    </div>
     </div>
     
   );

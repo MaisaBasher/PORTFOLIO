@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -25,15 +23,13 @@
   width: 150px;
   
 }
-.App-link {
-  color: #61dafb;
+.parent {
+  height: 100%;
+  margin: 0;
+  background-image: linear-gradient(180deg, rgb(233, 174, 219), rgb(212, 184, 217));
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.sec {
+  height: 100%;
+  overflow-y: auto;
+  
 }
