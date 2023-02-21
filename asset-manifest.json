@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MaisaBasher//.github.io/my-app/static/css/main.f15c3ebd.css",
+    "main.js": "/MaisaBasher//.github.io/my-app/static/js/main.55cf2921.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MaisaBasher//.github.io/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pic.jpg": "/MaisaBasher//.github.io/my-app/static/media/pic.782f125ce8db091e687e.jpg",
+    "index.html": "/MaisaBasher//.github.io/my-app/index.html",
+    "main.f15c3ebd.css.map": "/MaisaBasher//.github.io/my-app/static/css/main.f15c3ebd.css.map",
+    "main.55cf2921.js.map": "/MaisaBasher//.github.io/my-app/static/js/main.55cf2921.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MaisaBasher//.github.io/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15c3ebd.css",
+    "static/js/main.55cf2921.js"
+  ]
+}
