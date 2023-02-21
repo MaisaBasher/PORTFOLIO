@@ -10,7 +10,6 @@ h1 {
 }
 .projectbody {
     background-image: linear-gradient(180deg, rgb(233, 174, 219), rgb(212, 184, 217));
-    background-image: url('../img/project-back2.jpeg');
     display: block;
     margin: 0;
     width: 50%;
@@ -30,14 +29,15 @@ h1 {
     color: rgb(232, 217, 229);
     background-image: linear-gradient(180deg, rgb(232, 63, 192), rgb(198, 102, 215));
     border-radius: 25px;
-    padding: 25px;
+    padding: 40px;
+   
+    
 
     
 }
 .details {
     float: left;
-    background-image: linear-gradient(180deg, rgb(226, 92, 195), rgb(198, 102, 215));;
-    background-image: url('../img/project-back2.jpeg');
+    background-image: linear-gradient(180deg, rgb(197, 48, 162), rgb(192, 134, 202));
     width: 50%;
     height: 400px;
     align-items:center;
